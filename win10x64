@@ -1,7 +1,7 @@
 echo "===================================="
 echo "Download windows files"
 echo "===================================="
-curl -L -o w10x64.img https://bit.ly/3sdd4VM
+curl -L -o w10x64.img https://bit.ly/3s7FXD2
 echo "===================================="
 echo "Download ngrok"
 echo "===================================="
